@@ -2,6 +2,6 @@
 
 Tensorflow notebooks for people who think PyTorch is better.
 
-| Title | Notebook |
+| Topic | Notebook |
 | ----- | -------- |
 | Dense Neural Network | [Link]()|
